@@ -1,0 +1,5 @@
+decision_tree.py			 实现的是未经剪枝的三种决策树
+decision_tree_with_postPruning.py 	实现的是经过后剪枝的三种决策树
+decision_tree_with_prePruning.py	 实现的是经过一种前剪枝方法的三种决策树
+decision_tree_with_prePruning_v2.py 	实现的是经过第二种前剪枝方法的三种决策树
+random_forest.py 			实现的是以三种决策树作为树的随机森林

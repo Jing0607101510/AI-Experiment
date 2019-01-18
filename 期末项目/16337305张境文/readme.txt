@@ -1,0 +1,3 @@
+GA.py 实现的是遗传算法
+policyGradient.py实现policyGradient算法
+其中checkpoint目录是用于保存policyGradient训练的参数。

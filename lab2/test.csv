@@ -1,0 +1,9 @@
+﻿low,high,2,more,big,med,1
+low,med,5more,more,med,med,1
+low,vhigh,2,more,small,high,0
+vhigh,low,3,2,med,high,0
+med,med,4,more,small,high,1
+vhigh,med,5more,2,small,med,0
+low,vhigh,5more,4,med,med,1
+vhigh,low,2,more,big,high,1
+high,med,4,2,med,high,0
